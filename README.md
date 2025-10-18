@@ -31,7 +31,7 @@ The analysis focuses on identifying high-value markets, managing concentration r
 
 The final visual output is included below for quick review. Click to view the full resolution image:
 
-![Final Sales Dashboard Overview](Final_Dashboard_Overview.png)
+![Final Sales Dashboard Overview](Final_Dashboard_Overview.jpg)
 
 ---
 
